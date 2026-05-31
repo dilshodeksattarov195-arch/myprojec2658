@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentselete",
+        "uuid": 17378004,
+        "checksum": "d0eb69"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
